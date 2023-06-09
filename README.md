@@ -1,7 +1,7 @@
 # Airbnb_price_category_prediction
 multi-modality solution
 
-#**Problem Definition**
+# **Problem Definition**
 Problem here is about building a model to classify the price and type.
 
 **Input:** summary and image (7627) for a training dataset.
