@@ -3,11 +3,11 @@ multi-modality solution
 #**Problem Definition**
 Problem here is about building a model to classify the price and type.
 
-**Input:* summary and image (7627) for a training dataset.
+**Input:** summary and image (7627) for a training dataset.
 
 **Output:** price and type (7627) .
 
-- Data mining function
+**Data mining function**
 - load the data from the source.
 - preprocess and manipulating the data.
 - build and train the model.
