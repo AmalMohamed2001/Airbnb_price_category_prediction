@@ -12,7 +12,7 @@ Problem here is about building a model to classify the price and type.
 - preprocess and manipulating the data.
 - build and train the model.
 - classification and prediction.
-- 
+
 **Impact**
 It will help hosts to put the true and suitable price for their residence place and that will increase their sales, also it will help guests to predict the night price for the place that they are looking for it to stay in it at holidays or in the work trip days.
 
